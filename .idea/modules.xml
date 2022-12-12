@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/7_hibernate-jpa-asociaciones-app[ManyToMany].iml" filepath="$PROJECT_DIR$/.idea/7_hibernate-jpa-asociaciones-app[ManyToMany].iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-jpa-asociaciones-app/hibernate-jpa-asociaciones-app.iml" filepath="$PROJECT_DIR$/hibernate-jpa-asociaciones-app/hibernate-jpa-asociaciones-app.iml" />
+    </modules>
+  </component>
+</project>
